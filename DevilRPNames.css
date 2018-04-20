@@ -1,0 +1,1863 @@
+/*AutoModerator*/
+
+.author[href$="AutoModerator"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="AutoModerator"]:after {
+    font-size: 10.5pt;
+    content: 'Skynet';
+}
+
+/*MageToLight*/
+
+.author[href$="MageToLight"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="MageToLight"]:after {
+    font-size: 10.5pt;
+    content: 'Aaron Clarke';
+}
+
+/*MageToDark*/
+
+.author[href$="MageToDark"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="MageToDark"]:after {
+    font-size: 10.5pt;
+    content: 'Cathal Dunne';
+}
+
+/*MageToRevelations*/
+
+.author[href$="MageToRevelations"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="MageToRevelations"]:after {
+    font-size: 10.5pt;
+    content: 'Ven Ares';
+}
+
+/*Oceanman98*/
+
+.author[href$="Oceanman98"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Oceanman98"]:after {
+    font-size: 10.5pt;
+    content: 'Headmaster Walker';
+}
+
+/*Popal55*/
+
+.author[href$="Popal55"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Popal55"]:after {
+    font-size: 10.5pt;
+    content: 'James Moriarty';
+}
+
+/*Oldkingclock*/
+
+.author[href$="Oldkingclock"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Oldkingclock"]:after {
+    font-size: 10.5pt;
+    content: 'William Kaoely';
+}
+
+/*azumas_wrath*/
+
+.author[href$="azumas_wrath"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="azumas_wrath"]:after {
+    font-size: 10.5pt;
+    content: 'Cary Thompson';
+}
+
+/*Waffles-No-Okami*/
+
+.author[href$="Waffles-No-Okami"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Waffles-No-Okami"]:after {
+    font-size: 10.5pt;
+    content: 'Mirrah Whitmore';
+}
+
+/*SetsukoStryi*/
+
+.author[href$="SetsukoStryi"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="SetsukoStryi"]:after {
+    font-size: 10.5pt;
+    content: 'Princess Kali';
+}
+
+/*FreelancerJon*/
+
+.author[href$="FreelancerJon"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="FreelancerJon"]:after {
+    font-size: 10.5pt;
+    content: 'Maddox Quill';
+}
+
+/*PanopticSinner*/
+
+.author[href$="PanopticSinner"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="PanopticSinner"]:after {
+    font-size: 10.5pt;
+    content: 'Irinreia';
+}
+
+/*Theoneforroleplay*/
+
+.author[href$="Theoneforroleplay"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Theoneforroleplay"]:after {
+    font-size: 10.5pt;
+    content: 'Esme Wilder';
+}
+
+/*StrangeJelly*/
+
+.author[href$="StrangeJelly"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="StrangeJelly"]:after {
+    font-size: 10.5pt;
+    content: 'Vince Valentine';
+}
+
+/*renegadeprime*/
+
+.author[href$="renegadeprime"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="renegadeprime"]:after {
+    font-size: 10.5pt;
+    content: 'Settra the Imperishable';
+}
+
+/*MikeTarrian*/
+
+.author[href$="MikeTarrian"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="MikeTarrian"]:after {
+    font-size: 10.5pt;
+    content: 'Phyllis Rauman';
+}
+
+/*djb2spirit*/
+
+.author[href$="djb2spirit"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="djb2spirit"]:after {
+    font-size: 10.5pt;
+    content: 'David Vance';
+}
+
+/*Black_Librarian*/
+
+.author[href$="Black_Librarian"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Black_Librarian"]:after {
+    font-size: 10.5pt;
+    content: 'Jane Ahriman';
+}
+
+/*lay_me_down_*/
+
+.author[href$="lay_me_down_"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="lay_me_down_"]:after {
+    font-size: 10.5pt;
+    content: 'Veronica Roux';
+}
+
+/*UnArdilla*/
+
+.author[href$="UnArdilla"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="UnArdilla"]:after {
+    font-size: 10.5pt;
+    content: 'Derretir “Clerk” Anostilens';
+}
+
+/*TheViolator00*/
+
+.author[href$="TheViolator00"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="TheViolator00"]:after {
+    font-size: 10.5pt;
+    content: 'James Abbott';
+}
+
+/*Xxsabertaime1*/
+
+
+.author[href$="Xxsabertaime1"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Xxsabertaime1"]:after {
+    font-size: 10.5pt;
+    content: 'Edward Dervant';
+}
+
+/*precognition_*/
+
+
+.author[href$="precognition_"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="precognition_"]:after {
+    font-size: 10.5pt;
+    content: 'Hope Skywalker';
+}
+
+
+/*precognition_*/
+
+
+.author[href$="Big-Bad-Antagonist"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Big-Bad-Antagonist"]:after {
+    font-size: 10.5pt;
+    content: 'Bernice Walker';
+}
+
+/*nobrakes21*/
+
+.author[href$="nobrakes21"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="nobrakes21"]:after {
+    font-size: 10.5pt;
+    content: 'Isaac Williams';
+}
+
+/*Popal77*/
+
+.author[href$="Popal77"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Popal77"]:after {
+    font-size: 10.5pt;
+    content: 'Kilian Jay Den';
+}
+
+/*Tanaka917*/
+
+.author[href$="Tanaka917"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Tanaka917"]:after {
+    font-size: 10.5pt;
+    content: 'Alexander Ledo';
+}
+
+/*JusticeisBlind96*/
+
+
+.author[href$="JusticeisBlind96"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="JusticeisBlind96"]:after {
+    font-size: 10.5pt;
+    content: 'Magnus';
+}
+
+/*toomanyrpaccounts*/
+
+.author[href$="toomanyrpaccounts"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="toomanyrpaccounts"]:after {
+    font-size: 10.5pt;
+    content: 'Faye Hagen';
+}
+
+/*DemonWor1d*/
+
+.author[href$="DemonWor1d"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="DemonWor1d"]:after {
+    font-size: 10.5pt;
+    content: 'Caleb MacManus';
+}
+
+/*knife-cat*/
+
+.author[href$="knife-cat"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="knife-cat"]:after {
+    font-size: 10.5pt;
+    content: 'Sara Azshara';
+}
+
+/*Gelato-Telos-the-2nd*/
+
+.author[href$="Gelato-Telos-the-2nd"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Gelato-Telos-the-2nd"]:after {
+    font-size: 10.5pt;
+    content: 'Nadiyya al-Saber';
+}
+
+
+/*Zorrekky*/
+
+.author[href$="Zorrekky"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Zorrekky"]:after {
+    font-size: 10.5pt;
+    content: 'Ashley';
+}
+
+/*Oceanalt1*/
+
+.author[href$="Oceanalt1"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Oceanalt1"]:after {
+    font-size: 10.5pt;
+    content: 'Kato Millennium';
+}
+
+/*A_Mysterious_Strange*/
+
+.author[href$="A_Mysterious_Strange"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="A_Mysterious_Strange"]:after {
+    font-size: 10.5pt;
+    content: 'Alexandra Sparks';
+}
+
+/*Varroku*/
+
+.author[href$="Varroku"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Varroku"]:after {
+    font-size: 10.5pt;
+    content: 'Kasuke Orohida';
+}
+
+/*BRAZZERSdot*/
+
+.author[href$="BRAZZERSdot"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="BRAZZERSdot"]:after {
+    font-size: 10.5pt;
+    content: 'Iniaretta Amari';
+}
+
+/*ThousandBees*/
+
+
+.author[href$="ThousandBees"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="ThousandBees"]:after {
+    font-size: 10.5pt;
+    content: 'Camini Baphomet';
+}
+
+/*Manabe-Shimizu*/
+
+.author[href$="Manabe-Shimizu"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Manabe-Shimizu"]:after {
+    font-size: 10.5pt;/*AutoModerator*/
+
+.author[href$="AutoModerator"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="AutoModerator"]:after {
+    font-size: 10.5pt;
+    content: 'Skynet';
+}
+
+/*MageToLight*/
+
+.author[href$="MageToLight"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="MageToLight"]:after {
+    font-size: 10.5pt;
+    content: 'Aaron Clarke';
+}
+
+/*MageToDark*/
+
+.author[href$="MageToDark"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="MageToDark"]:after {
+    font-size: 10.5pt;
+    content: 'Cathal Dunne';
+}
+
+/*MageToRevelations*/
+
+.author[href$="MageToRevelations"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="MageToRevelations"]:after {
+    font-size: 10.5pt;
+    content: 'Ven Ares';
+}
+
+/*Oceanman98*/
+
+.author[href$="Oceanman98"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Oceanman98"]:after {
+    font-size: 10.5pt;
+    content: 'Headmaster Walker';
+}
+
+/*Popal55*/
+
+.author[href$="Popal55"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Popal55"]:after {
+    font-size: 10.5pt;
+    content: 'James Moriarty';
+}
+
+/*Oldkingclock*/
+
+.author[href$="Oldkingclock"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Oldkingclock"]:after {
+    font-size: 10.5pt;
+    content: 'William Kaoely';
+}
+
+/*azumas_wrath*/
+
+.author[href$="azumas_wrath"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="azumas_wrath"]:after {
+    font-size: 10.5pt;
+    content: 'Cary Thompson';
+}
+
+/*Waffles-No-Okami*/
+
+.author[href$="Waffles-No-Okami"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Waffles-No-Okami"]:after {
+    font-size: 10.5pt;
+    content: 'Mirrah Whitmore';
+}
+
+/*SetsukoStryi*/
+
+.author[href$="SetsukoStryi"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="SetsukoStryi"]:after {
+    font-size: 10.5pt;
+    content: 'Princess Kali';
+}
+
+/*FreelancerJon*/
+
+.author[href$="FreelancerJon"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="FreelancerJon"]:after {
+    font-size: 10.5pt;
+    content: 'Maddox Quill';
+}
+
+/*PanopticSinner*/
+
+.author[href$="PanopticSinner"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="PanopticSinner"]:after {
+    font-size: 10.5pt;
+    content: 'Irinreia';
+}
+
+/*Theoneforroleplay*/
+
+.author[href$="Theoneforroleplay"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Theoneforroleplay"]:after {
+    font-size: 10.5pt;
+    content: 'Esme Wilder';
+}
+
+/*StrangeJelly*/
+
+.author[href$="StrangeJelly"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="StrangeJelly"]:after {
+    font-size: 10.5pt;
+    content: 'Vince Valentine';
+}
+
+/*renegadeprime*/
+
+.author[href$="renegadeprime"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="renegadeprime"]:after {
+    font-size: 10.5pt;
+    content: 'Settra the Imperishable';
+}
+
+/*MikeTarrian*/
+
+.author[href$="MikeTarrian"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="MikeTarrian"]:after {
+    font-size: 10.5pt;
+    content: 'Phyllis Rauman';
+}
+
+/*djb2spirit*/
+
+.author[href$="djb2spirit"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="djb2spirit"]:after {
+    font-size: 10.5pt;
+    content: 'David Vance';
+}
+
+/*Black_Librarian*/
+
+.author[href$="Black_Librarian"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Black_Librarian"]:after {
+    font-size: 10.5pt;
+    content: 'Jane Ahriman';
+}
+
+/*lay_me_down_*/
+
+.author[href$="lay_me_down_"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="lay_me_down_"]:after {
+    font-size: 10.5pt;
+    content: 'Veronica Roux';
+}
+
+/*UnArdilla*/
+
+.author[href$="UnArdilla"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="UnArdilla"]:after {
+    font-size: 10.5pt;
+    content: 'Derretir “Clerk” Anostilens';
+}
+
+/*TheViolator00*/
+
+.author[href$="TheViolator00"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="TheViolator00"]:after {
+    font-size: 10.5pt;
+    content: 'James Abbott';
+}
+
+/*Xxsabertaime1*/
+
+
+.author[href$="Xxsabertaime1"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Xxsabertaime1"]:after {
+    font-size: 10.5pt;
+    content: 'Edward Dervant';
+}
+
+/*precognition_*/
+
+
+.author[href$="precognition_"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="precognition_"]:after {
+    font-size: 10.5pt;
+    content: 'Hope Skywalker';
+}
+
+
+/*precognition_*/
+
+
+.author[href$="Big-Bad-Antagonist"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Big-Bad-Antagonist"]:after {
+    font-size: 10.5pt;
+    content: 'Bernice Walker';
+}
+
+/*nobrakes21*/
+
+.author[href$="nobrakes21"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="nobrakes21"]:after {
+    font-size: 10.5pt;
+    content: 'Isaac Williams';
+}
+
+/*Popal77*/
+
+.author[href$="Popal77"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Popal77"]:after {
+    font-size: 10.5pt;
+    content: 'Kilian Jay Den';
+}
+
+/*Tanaka917*/
+
+.author[href$="Tanaka917"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Tanaka917"]:after {
+    font-size: 10.5pt;
+    content: 'Alexander Ledo';
+}
+
+/*JusticeisBlind96*/
+
+
+.author[href$="JusticeisBlind96"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="JusticeisBlind96"]:after {
+    font-size: 10.5pt;
+    content: 'Magnus';
+}
+
+/*toomanyrpaccounts*/
+
+.author[href$="toomanyrpaccounts"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="toomanyrpaccounts"]:after {
+    font-size: 10.5pt;
+    content: 'Faye Hagen';
+}
+
+/*DemonWor1d*/
+
+.author[href$="DemonWor1d"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="DemonWor1d"]:after {
+    font-size: 10.5pt;
+    content: 'Caleb MacManus';
+}
+
+/*knife-cat*/
+
+.author[href$="knife-cat"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="knife-cat"]:after {
+    font-size: 10.5pt;
+    content: 'Sara Azshara';
+}
+
+/*Gelato-Telos-the-2nd*/
+
+.author[href$="Gelato-Telos-the-2nd"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Gelato-Telos-the-2nd"]:after {
+    font-size: 10.5pt;
+    content: 'Nadiyya al-Saber';
+}
+
+
+/*Zorrekky*/
+
+.author[href$="Zorrekky"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Zorrekky"]:after {
+    font-size: 10.5pt;
+    content: 'Ashley';
+}
+
+/*Oceanalt1*/
+
+.author[href$="Oceanalt1"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Oceanalt1"]:after {
+    font-size: 10.5pt;
+    content: 'Kato Millennium';
+}
+
+/*A_Mysterious_Strange*/
+
+.author[href$="A_Mysterious_Strange"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="A_Mysterious_Strange"]:after {
+    font-size: 10.5pt;
+    content: 'Alexandra Sparks';
+}
+
+/*Varroku*/
+
+.author[href$="Varroku"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Varroku"]:after {
+    font-size: 10.5pt;
+    content: 'Kasuke Orohida';
+}
+
+/*BRAZZERSdot*/
+
+.author[href$="BRAZZERSdot"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="BRAZZERSdot"]:after {
+    font-size: 10.5pt;
+    content: 'Iniaretta Amari';
+}
+
+/*ThousandBees*/
+
+
+.author[href$="ThousandBees"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="ThousandBees"]:after {
+    font-size: 10.5pt;
+    content: 'Camini Baphomet';
+}
+
+/*Manabe-Shimizu*/
+
+.author[href$="Manabe-Shimizu"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Manabe-Shimizu"]:after {
+    font-size: 10.5pt;
+    content: 'Kitty Irons';
+}
+
+/*Fomizzle*/
+
+.author[href$="Fomizzle"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Fomizzle"]:after {
+    font-size: 10.5pt;
+    content: 'Amber Quinn';
+}
+
+/*theactualfocks*/
+
+.author[href$="theactualfocks"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="theactualfocks"]:after {
+    font-size: 10.5pt;
+    content: 'Calvin Arthur';
+}
+
+/*QuadBoySquared*/
+
+.author[href$="QuadBoySquared"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="QuadBoySquared"]:after {
+    font-size: 10.5pt;
+    content: 'Lazarus Ryker';
+}
+
+/*DoctorFlubbers*/
+
+.author[href$="DoctorFlubbers"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="DoctorFlubbers"]:after {
+    font-size: 10.5pt;
+    content: 'Gavin Lee';
+}
+
+/*kingozma*/
+
+.author[href$="kingozma"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="kingozma"]:after {
+    font-size: 10.5pt;
+    content: 'Arya Kurosawa';
+}
+
+/*Innodence*/
+
+.author[href$="Innodence"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Innodence"]:after {
+    font-size: 10.5pt;
+    content: 'Frahj Dorrik';
+}
+
+/*Ropeb*/
+
+.author[href$="Ropeb"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Ropeb"]:after {
+    font-size: 10.5pt;
+    content: 'Dion Thales';
+}
+
+/*NikaStarshine*/
+
+.author[href$="NikaStarshine"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="NikaStarshine"]:after {
+    font-size: 10.5pt;
+    content: 'Pat Suzuki';
+}
+
+/*Duke_Silver5*/
+
+.author[href$="Duke_Silver5"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Duke_Silver5"]:after {
+    font-size: 10.5pt;
+    content: 'Julian Schöpfer';
+}
+
+/*Myaccountbackoff*/
+
+.author[href$="Myaccountbackoff"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Myaccountbackoff"]:after {
+    font-size: 10.5pt;
+    content: 'Nikki Bage';
+}
+
+/*The_Roving_Drifter*/
+
+.author[href$="The_Roving_Drifter"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="The_Roving_Drifter"]:after {
+    font-size: 10.5pt;
+    content: 'Vadik';
+}
+
+/*Cheshire_Fox07*/
+
+.author[href$="Cheshire_Fox07"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Cheshire_Fox07"]:after {
+    font-size: 10.5pt;
+    content: 'Atticus Constantine';
+}
+
+/*duty-and-death*/
+
+
+.author[href$="duty-and-death"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="duty-and-death"]:after {
+    font-size: 10.5pt;
+    content: 'Kyla';
+}
+
+/*RP_Account9*/
+
+.author[href$="RP_Account9"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="RP_Account9"]:after {
+    font-size: 10.5pt;
+    content: 'Vincent Smoke';
+}
+
+/*WaterGulp*/
+
+.author[href$="WaterGulp"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="WaterGulp"]:after {
+    font-size: 10.5pt;
+    content: 'Tali Taylor';
+}
+
+/*homestuck_gal*/
+
+.author[href$="homestuck_gal"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="homestuck_gal"]:after {
+    font-size: 10.5pt;
+    content: 'Nico Jackson';
+}
+
+/*Clockwork_Bael*/
+
+.author[href$="Clockwork_Bael"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Clockwork_Bael"]:after {
+    font-size: 10.5pt;
+    content: 'Frieda Krauszer';
+}
+
+/*Dr_Sodium*/
+
+.author[href$="Dr_Sodium"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Dr_Sodium"]:after {
+    font-size: 10.5pt;
+    content: 'Burke';
+}
+
+
+/*GlitchThePixel*/
+
+.author[href$="GlitchThePixel"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="GlitchThePixel"]:after {
+    font-size: 10.5pt;
+    content: 'Adriana Nassar-Grahn';
+}
+
+/*The-Tewby*/
+
+.author[href$="The-Tewby"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="The-Tewby"]:after {
+    font-size: 10.5pt;
+    content: 'Kyle Dustin';
+}
+
+/*WinonaDorrik*/
+
+.author[href$="WinonaDorrik"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="WinonaDorrik"]:after {
+    font-size: 10.5pt;
+    content: 'Winona Dorrik';
+}
+
+/*eris_void*/
+
+.author[href$="eris_void"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="eris_void"]:after {
+    font-size: 10.5pt;
+    content: 'Eris Void';
+}
+
+/*Eric_dOrleans*/
+
+.author[href$="Eric_dOrleans"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Eric_dOrleans"]:after {
+    font-size: 10.5pt;
+    content: 'Silas Jack Steiner';
+}
+
+/*NutlikeInternet*/
+
+.author[href$="NutlikeInternet"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="NutlikeInternet"]:after {
+    font-size: 10.5pt;
+    content: 'Mikhail Jonah Parkreiner';
+}
+
+/*Elsvaer*/
+
+.author[href$="Elsvaer"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Elsvaer"]:after {
+    font-size: 10.5pt;
+    content: 'Emélie de Crèvecœur';
+}
+
+/*i-am-a-tree*/
+
+.author[href$="i-am-a-tree"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="i-am-a-tree"]:after {
+    font-size: 10.5pt;
+    content: 'Andrea Duva';
+}
+
+/*amacita*/
+
+.author[href$="amacita"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="amacita"]:after {
+    font-size: 10.5pt;
+    content: 'Jackie Lee';
+}
+
+/*I_wanna_be_a_hero*/
+
+.author[href$="I_wanna_be_a_hero"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="I_wanna_be_a_hero"]:after {
+    font-size: 10.5pt;
+    content: 'Irina Svetlana';
+}
+
+/*TheRustyBasement*/
+
+.author[href$="TheRustyBasement"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="TheRustyBasement"]:after {
+    font-size: 10.5pt;
+    content: 'Gylve Larsen';
+}
+
+/*we_win_today*/
+
+.author[href$="we_win_today"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="we_win_today"]:after {
+    font-size: 10.5pt;
+    content: 'Gillian Walker';
+}
+
+/*Logickalp*/
+
+.author[href$="Logickalp"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Logickalp"]:after {
+    font-size: 10.5pt;
+    content: 'Jasmine Morgan';
+}
+
+/*ThrombosisJones*/
+
+.author[href$="ThrombosisJones"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="ThrombosisJones"]:after {
+    font-size: 10.5pt;
+    content: 'Thea Longhorn';
+}
+
+/*Gr8pesofWrath*/
+
+.author[href$="Gr8pesofWrath"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Gr8pesofWrath"]:after {
+    font-size: 10.5pt;
+    content: 'Aurora Solaria';
+}
+
+/*LygerRinzyu*/
+
+.author[href$="LygerRinzyu"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="LygerRinzyu"]:after {
+    font-size: 10.5pt;
+    content: 'Lyger Rinzyu';
+}
+
+/*ExplosiveSnap*/
+
+.author[href$="ExplosiveSnap"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="ExplosiveSnap"]:after {
+    font-size: 10.5pt;
+    content: 'Rowan Millsap';
+}
+
+/*Wade_Williams*/
+
+.author[href$="Wade_Williams"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Wade_Williams"]:after {
+    font-size: 10.5pt;
+    content: 'Wade and Wanda Williams';
+}
+
+/*Broshinsky997*/
+
+.author[href$="Broshinsky997"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Broshinsky997"]:after {
+    font-size: 10.5pt;
+    content: 'Shawn Steele';
+}
+
+/*LittleOri*/
+
+.author[href$="LittleOri"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="LittleOri"]:after {
+    font-size: 10.5pt;
+    content: 'Carter Whitmore';
+}
+
+/*Tomorrow_is_gone*/
+
+.author[href$="Tomorrow_is_gone"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Tomorrow_is_gone"]:after {
+    font-size: 10.5pt;
+    content: 'Delilah';
+}
+
+/*MaoNox*/
+
+.author[href$="MaoNox"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="MaoNox"]:after {
+    font-size: 10.5pt;
+    content: 'Hope Suliman';
+}
+
+/*SnorlaxGhettoBooty*/
+
+.author[href$="SnorlaxGhettoBooty"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="SnorlaxGhettoBooty"]:after {
+    font-size: 10.5pt;
+    content: 'Agnes Curry';
+}
+
+/*MaxoRed*/
+
+.author[href$="MaxoRed"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="MaxoRed"]:after {
+    font-size: 10.5pt;
+    content: 'Wilhelm Schmidt';
+}
+
+/*LogickalProgression*/
+
+.author[href$="LogickalProgression"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="LogickalProgression"]:after {
+    font-size: 10.5pt;
+    content: 'Na’Dira Parker';
+}
+
+/*Dakotatwins*/
+
+.author[href$="Dakotatwins"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Dakotatwins"]:after {
+    font-size: 10.5pt;
+    content: 'Anya';
+}
+
+/*secret_weapon_*/
+
+.author[href$="secret_weapon_"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="secret_weapon_"]:after {
+    font-size: 10.5pt;
+    content: 'Cosima Alexander';
+}
+    content: 'Kitty Irons';
+}
+
+/*Fomizzle*/
+
+.author[href$="Fomizzle"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Fomizzle"]:after {
+    font-size: 10.5pt;
+    content: 'Amber Quinn';
+}
+
+/*theactualfocks*/
+
+.author[href$="theactualfocks"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="theactualfocks"]:after {
+    font-size: 10.5pt;
+    content: 'Calvin Arthur';
+}
+
+/*QuadBoySquared*/
+
+.author[href$="QuadBoySquared"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="QuadBoySquared"]:after {
+    font-size: 10.5pt;
+    content: 'Lazarus Ryker';
+}
+
+/*DoctorFlubbers*/
+
+.author[href$="DoctorFlubbers"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="DoctorFlubbers"]:after {
+    font-size: 10.5pt;
+    content: 'Gavin Lee';
+}
+
+/*kingozma*/
+
+.author[href$="kingozma"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="kingozma"]:after {
+    font-size: 10.5pt;
+    content: 'Arya Kurosawa';
+}
+
+/*Innodence*/
+
+.author[href$="Innodence"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Innodence"]:after {
+    font-size: 10.5pt;
+    content: 'Frahj Dorrik';
+}
+
+/*Ropeb*/
+
+.author[href$="Ropeb"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Ropeb"]:after {
+    font-size: 10.5pt;
+    content: 'Dion Thales';
+}
+
+/*NikaStarshine*/
+
+.author[href$="NikaStarshine"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="NikaStarshine"]:after {
+    font-size: 10.5pt;
+    content: 'Pat Suzuki';
+}
+
+/*Duke_Silver5*/
+
+.author[href$="Duke_Silver5"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Duke_Silver5"]:after {
+    font-size: 10.5pt;
+    content: 'Julian Schöpfer';
+}
+
+/*Myaccountbackoff*/
+
+.author[href$="Myaccountbackoff"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Myaccountbackoff"]:after {
+    font-size: 10.5pt;
+    content: 'Nikki Bage';
+}
+
+/*The_Roving_Drifter*/
+
+.author[href$="The_Roving_Drifter"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="The_Roving_Drifter"]:after {
+    font-size: 10.5pt;
+    content: 'Vadik';
+}
+
+/*Cheshire_Fox07*/
+
+.author[href$="Cheshire_Fox07"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Cheshire_Fox07"]:after {
+    font-size: 10.5pt;
+    content: 'Atticus Constantine';
+}
+
+/*duty-and-death*/
+
+
+.author[href$="duty-and-death"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="duty-and-death"]:after {
+    font-size: 10.5pt;
+    content: 'Kyla';
+}
+
+/*RP_Account9*/
+
+.author[href$="RP_Account9"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="RP_Account9"]:after {
+    font-size: 10.5pt;
+    content: 'Vincent Smoke';
+}
+
+/*WaterGulp*/
+
+.author[href$="WaterGulp"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="WaterGulp"]:after {
+    font-size: 10.5pt;
+    content: 'Tali Taylor';
+}
+
+/*homestuck_gal*/
+
+.author[href$="homestuck_gal"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="homestuck_gal"]:after {
+    font-size: 10.5pt;
+    content: 'Nico Jackson';
+}
+
+/*Clockwork_Bael*/
+
+.author[href$="Clockwork_Bael"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Clockwork_Bael"]:after {
+    font-size: 10.5pt;
+    content: 'Frieda Krauszer';
+}
+
+/*Dr_Sodium*/
+
+.author[href$="Dr_Sodium"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Dr_Sodium"]:after {
+    font-size: 10.5pt;
+    content: 'Burke';
+}
+
+
+/*GlitchThePixel*/
+
+.author[href$="GlitchThePixel"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="GlitchThePixel"]:after {
+    font-size: 10.5pt;
+    content: 'Adriana Nassar-Grahn';
+}
+
+/*The-Tewby*/
+
+.author[href$="The-Tewby"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="The-Tewby"]:after {
+    font-size: 10.5pt;
+    content: 'Kyle Dustin';
+}
+
+/*WinonaDorrik*/
+
+.author[href$="WinonaDorrik"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="WinonaDorrik"]:after {
+    font-size: 10.5pt;
+    content: 'Winona Dorrik';
+}
+
+/*eris_void*/
+
+.author[href$="eris_void"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="eris_void"]:after {
+    font-size: 10.5pt;
+    content: 'Eris Void';
+}
+
+/*Eric_dOrleans*/
+
+.author[href$="Eric_dOrleans"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Eric_dOrleans"]:after {
+    font-size: 10.5pt;
+    content: 'Silas Jack Steiner';
+}
+
+/*NutlikeInternet*/
+
+.author[href$="NutlikeInternet"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="NutlikeInternet"]:after {
+    font-size: 10.5pt;
+    content: 'Mikhail Jonah Parkreiner';
+}
+
+/*Elsvaer*/
+
+.author[href$="Elsvaer"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Elsvaer"]:after {
+    font-size: 10.5pt;
+    content: 'Emélie de Crèvecœur';
+}
+
+/*i-am-a-tree*/
+
+.author[href$="i-am-a-tree"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="i-am-a-tree"]:after {
+    font-size: 10.5pt;
+    content: 'Andrea Duva';
+}
+
+/*amacita*/
+
+.author[href$="amacita"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="amacita"]:after {
+    font-size: 10.5pt;
+    content: 'Jackie Lee';
+}
+
+/*I_wanna_be_a_hero*/
+
+.author[href$="I_wanna_be_a_hero"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="I_wanna_be_a_hero"]:after {
+    font-size: 10.5pt;
+    content: 'Irina Svetlana';
+}
+
+/*TheRustyBasement*/
+
+.author[href$="TheRustyBasement"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="TheRustyBasement"]:after {
+    font-size: 10.5pt;
+    content: 'Gylve Larsen';
+}
+
+/*we_win_today*/
+
+.author[href$="we_win_today"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="we_win_today"]:after {
+    font-size: 10.5pt;
+    content: 'Gillian Walker';
+}
+
+/*Logickalp*/
+
+.author[href$="Logickalp"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Logickalp"]:after {
+    font-size: 10.5pt;
+    content: 'Jasmine Morgan';
+}
+
+/*ThrombosisJones*/
+
+.author[href$="ThrombosisJones"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="ThrombosisJones"]:after {
+    font-size: 10.5pt;
+    content: 'Thea Longhorn';
+}
+
+/*Gr8pesofWrath*/
+
+.author[href$="Gr8pesofWrath"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Gr8pesofWrath"]:after {
+    font-size: 10.5pt;
+    content: 'Aurora Solaria';
+}
+
+/*LygerRinzyu*/
+
+.author[href$="LygerRinzyu"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="LygerRinzyu"]:after {
+    font-size: 10.5pt;
+    content: 'Lyger Rinzyu';
+}
+
+/*ExplosiveSnap*/
+
+.author[href$="ExplosiveSnap"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="ExplosiveSnap"]:after {
+    font-size: 10.5pt;
+    content: 'Rowan Millsap';
+}
+
+/*Wade_Williams*/
+
+.author[href$="Wade_Williams"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Wade_Williams"]:after {
+    font-size: 10.5pt;
+    content: 'Wade and Wanda Williams';
+}
+
+/*Broshinsky997*/
+
+.author[href$="Broshinsky997"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Broshinsky997"]:after {
+    font-size: 10.5pt;
+    content: 'Shawn Steele';
+}
+
+/*LittleOri*/
+
+.author[href$="LittleOri"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="LittleOri"]:after {
+    font-size: 10.5pt;
+    content: 'Carter Whitmore';
+}
+
+/*Tomorrow_is_gone*/
+
+.author[href$="Tomorrow_is_gone"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Tomorrow_is_gone"]:after {
+    font-size: 10.5pt;
+    content: 'Delilah';
+}
+
+/*MaoNox*/
+
+.author[href$="MaoNox"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="MaoNox"]:after {
+    font-size: 10.5pt;
+    content: 'Hope Suliman';
+}
+
+/*SnorlaxGhettoBooty*/
+
+.author[href$="SnorlaxGhettoBooty"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="SnorlaxGhettoBooty"]:after {
+    font-size: 10.5pt;
+    content: 'Agnes Curry';
+}
+
+/*MaxoRed*/
+
+.author[href$="MaxoRed"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="MaxoRed"]:after {
+    font-size: 10.5pt;
+    content: 'Wilhelm Schmidt';
+}
+
+/*LogickalProgression*/
+
+.author[href$="LogickalProgression"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="LogickalProgression"]:after {
+    font-size: 10.5pt;
+    content: 'Na’Dira Parker';
+}
+
+/*Dakotatwins*/
+
+.author[href$="Dakotatwins"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="Dakotatwins"]:after {
+    font-size: 10.5pt;
+    content: 'Anya';
+}
+
+/*secret_weapon_*/
+
+.author[href$="secret_weapon_"] {
+    font-size: 0;
+    content: '';
+}
+.author[href$="secret_weapon_"]:after {
+    font-size: 10.5pt;
+    content: 'Cosima Alexander';
+}
